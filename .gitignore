@@ -1,1 +1,3 @@
+__pycache__/
+*.pyc
 build/_chrome_profile/
